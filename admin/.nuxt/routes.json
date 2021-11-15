@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Ahmad Siraj Hashmi\\\\desktop\\\\amazon\\\\admin\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_3c856087"
+  },
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "C:\\\\Users\\\\Ahmad Siraj Hashmi\\\\desktop\\\\amazon\\\\admin\\\\pages\\\\category.vue",
+    "chunkName": "pages/category",
+    "_name": "_02366474"
+  },
+  {
+    "name": "owner",
+    "path": "/owner",
+    "component": "C:\\\\Users\\\\Ahmad Siraj Hashmi\\\\desktop\\\\amazon\\\\admin\\\\pages\\\\owner.vue",
+    "chunkName": "pages/owner",
+    "_name": "_e527a6a6"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Ahmad Siraj Hashmi\\\\desktop\\\\amazon\\\\admin\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index",
+    "_name": "_4bd61568"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "C:\\\\Users\\\\Ahmad Siraj Hashmi\\\\desktop\\\\amazon\\\\admin\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_fd8b5c60"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Ahmad Siraj Hashmi\\\\desktop\\\\amazon\\\\admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5c3d3b4c"
+  }
+]
